@@ -1,0 +1,13 @@
+OOP
+
+- class
+- object
+- inheritance
+- polymorphism
+- encapsulation
+- abstraction
+
+
+vorislik -
+poliformizm -
+inkapsulatsiya - class ning attribut yoki metodlarini private qilib qo'yish

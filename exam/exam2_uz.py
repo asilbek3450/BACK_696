@@ -66,6 +66,4 @@
 #     - Result sifatida raqamni taxmin qilish uchun foydalanuvchi sarflagan urinishlar sonini qaytaring.
 
 
-
-
-
+print(mashina['model'])

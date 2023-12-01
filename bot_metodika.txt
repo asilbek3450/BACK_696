@@ -1,0 +1,15 @@
+1. Botfather - frontend qismini tahlash,
+2. venv, aiogram nima, start bilan command ga javob berish (yoki bular 1-darsda)
+3. (command yaratish) import wikipedia lib (Request ni tushuntirish)
+4. nbu, API, (uyga vazifa botdan kiritgan pul nechi so'mligini topish)
+5. public api GitHub, Harry Potter, api bilan ishlash
+6. default keyboard, evos, click
+7. default keyboard, media file, rasm jo'natish turlari
+8. +inline keyboard
+9. bot project (evos, state()-registratsiya) + request_contact, request_location
+10. state bilan ishlash (registratsiya) + inline keyboard
+11. proyekt hammasini ishlatib
+12. imtihonga tayyorlanish
+13. IMTIHON (space bot, ...)
+
+rasm-fonini-olib-tashlaydigan-bot: https://old.mohirdev.uz/courses/telegram/lesson/rasm-fonini-olib-tashlaydigan-bot-1-qism-tanishuv/
